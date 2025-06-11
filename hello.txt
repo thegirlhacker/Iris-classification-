@@ -1,0 +1,5 @@
+Flask
+scikit-learn
+opencv-python-headless # Use headless for server environments if you don't need GUI
+numpy
+joblib # For loading the pickle file
